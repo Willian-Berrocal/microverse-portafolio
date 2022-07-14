@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(76, 76, 78);
+
+
+}
+#navbar
+{
+    color: rgb(224, 123, 41);
+    align-items: center;
+
+}
+#welcome-section{
+background-color: rgb(199, 62, 62);
+}
+#contact{
+    color: rgb(173, 24, 24);
+
+}
